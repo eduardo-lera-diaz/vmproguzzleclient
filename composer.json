@@ -1,0 +1,16 @@
+{
+  "name": "eduardo-lera-diaz/vmproguzzleclient",
+  "license": "propietary",
+  "authors": [
+    {
+      "name": "Eduardo Lera Diaz",
+      "email": "eduardo.diaz@movingimage.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "~6.0"
+  },
+  "require-dev": {
+    "mockery/mockery": "^0.9.4"
+  }
+}
